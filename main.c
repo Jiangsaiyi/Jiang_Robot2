@@ -97,7 +97,7 @@ int main(void)
   while (1)
   {
     uint32_t current_time = HAL_GetTick();
-    if (current_time - last_time >= 500)                   //时间间隔用的
+    if (current_time - last_time >= 500)                   //通过内部时钟进行检测，若距离上次时间大于500ms，则点亮
     {
       last_time = current_time;
 
