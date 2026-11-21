@@ -1,0 +1,3 @@
+D:/1/Revelation/cmake-build-debug/CMakeFiles/Revelation.elf.dir
+D:/1/Revelation/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/1/Revelation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
